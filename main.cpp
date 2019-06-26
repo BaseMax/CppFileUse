@@ -8,3 +8,7 @@
 * @Repository : https://github.com/BaseMax/CppFileUse
 *
 **/
+#include <iostream>
+#include <fstream>
+#include <string>
+using namespace std;
